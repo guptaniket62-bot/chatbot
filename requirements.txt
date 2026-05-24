@@ -1,0 +1,19 @@
+# Simple Chatbot Requirements
+# No external dependencies required for basic version
+
+# Optional dependencies for enhanced functionality:
+
+# For natural language processing:
+# nltk>=3.8
+# spacy>=3.5
+
+# For web interface:
+# flask>=2.3.0
+# flask-cors>=4.0.0
+
+# For testing:
+# pytest>=7.0
+# pytest-cov>=4.0
+
+# For data persistence:
+# sqlalchemy>=2.0
